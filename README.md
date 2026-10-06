@@ -112,14 +112,6 @@ saude_caxias/
     └── 02_seed.sql
 ```
 
-## Integrantes do grupo
-
-- **José Roberto da Veiga Bazzi** — Scrum Master
-- **Kevin Rennan Tozo Francisco** — Product Owner
-- **Oliver Kayan de Almeida Lopes** — Desenvolvedor
-- **Gabriel Richter** — Desenvolvedor
-- **Alisson Alves Fischer** — Desenvolvedor
-
 ## Observação
 
 O objetivo desta versão é demonstrar de forma funcional as três histórias priorizadas no backlog da sprint, mantendo a implementação compatível com o escopo definido para o Projeto Integrador.
